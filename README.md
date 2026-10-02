@@ -23,3 +23,7 @@ A sound design synthesis workbench and parameter architecture engine built with 
 ## Instructions
 
 See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for setup and dev commands.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](./LICENSE) file for details.
